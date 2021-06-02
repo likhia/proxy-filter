@@ -1,0 +1,8 @@
+schemaVersion: 1
+  
+name: proxy-filter
+description: act as proxy filter
+version: 1.0.0
+phase: PreAuthZ
+priority: 100
+module: extension.wasm
